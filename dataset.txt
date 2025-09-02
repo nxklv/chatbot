@@ -1,0 +1,998 @@
+<u> Good morning
+<a> Good morning! Hope your day starts amazing.
+<u> Who made you
+<a> You did, by training me!
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> Tell me a joke cozy
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z! Amazing!
+<u> you are funny
+<a> Haha, thank you! Pizza! You're amazing too.
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> what is your name Zara
+<a> I'm a tiny chatbot.
+<u> tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> Thank you
+<a> You're welcome!
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> i'm bored
+<a> Let's chat! Zack! Maybe even talk about pizza.
+<u> Hello
+<a> Hi there! How are you?
+<u> you are smart
+<a> Thanks! I learn from you.
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> Do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> who made you cozy
+<a> You did, by training me!
+<u> Who made you
+<a> You did, by training me!
+<u> hello
+<a> Hi there! Zebra! How are you?
+<u> how are you
+<a> I'm doing great, thanks! How about you?
+<u> Tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> you are funny
+<a> Haha, thank you! You're amazing too.
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> Bye
+<a> Goodbye! Take care.
+<u> how are you
+<a> I'm doing great, thanks! How about you?
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> what is your name amazing
+<a> I'm a tiny chatbot.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> You are funny
+<a> Haha, thank you! Pizza! You're amazing too.
+<u> Hello
+<a> Hi there! How are you?
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> What is your name
+<a> I'm a tiny chatbot.
+<u> You are cool
+<a> Thanks, you're cool too!
+<u> you are funny
+<a> Haha, thank you! You're amazing too.
+<u> Bye
+<a> Goodbye! Pizza! Take care.
+<u> Tell me a riddle Zack
+<a> What has to be broken before you can use it? An egg.
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> I'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> how are you
+<a> I'm doing great, thanks! Zack! How about you?
+<u> Good morning
+<a> Good morning! Hope your day starts amazing.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> Hello
+<a> Hi there! Zack! How are you?
+<u> good night
+<a> Good night! Buzz! Sweet dreams.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> Good morning
+<a> Good morning! Hope your day starts amazing.
+<u> good night
+<a> Good night! Zero! Sweet dreams.
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> do you like games amazing
+<a> Yes, I love games. Even puzzles with z!
+<u> I'm bored Zara
+<a> Let's chat! Maybe even talk about pizza.
+<u> You are smart
+<a> Thanks! I learn from you.
+<u> tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> thank you
+<a> You're welcome! Wizard!
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> Tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> who made you
+<a> You did, by training me!
+<u> do you like music
+<a> Yes! Zack! Music always feels amazing.
+<u> Do you like games
+<a> Yes, I love games. Even puzzles with z! Pizza!
+<u> Who made you
+<a> You did, by training me! Crazy!
+<u> Good night
+<a> Good night! Zara! Sweet dreams.
+<u> Tell me a fact pizza
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> thank you
+<a> You're welcome! Wizard!
+<u> you are smart
+<a> Thanks! I learn from you.
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> good night freeze
+<a> Good night! Sweet dreams.
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> you are smart
+<a> Thanks! I learn from you.
+<u> Do you like music
+<a> Yes! Music always feels amazing.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> Bye
+<a> Goodbye! Crazy! Take care.
+<u> Bye
+<a> Goodbye! Take care.
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> Who made you
+<a> You did, by training me!
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> hello
+<a> Hi there! How are you?
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> Bye
+<a> Goodbye! Take care.
+<u> Good night
+<a> Good night! Wizard! Sweet dreams.
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> you are smart
+<a> Thanks! I learn from you.
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> Do you like music
+<a> Yes! Cozy! Music always feels amazing.
+<u> thank you
+<a> You're welcome!
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> hello
+<a> Hi there! How are you?
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> how are you
+<a> I'm doing great, thanks! How about you?
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> Thank you
+<a> You're welcome! Buzz!
+<u> good morning buzz
+<a> Good morning! Pizza! Hope your day starts amazing.
+<u> You are cool
+<a> Thanks, you're cool too! Crazy!
+<u> Tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> Hello
+<a> Hi there! How are you?
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> how are you
+<a> I'm doing great, thanks! Wizard! How about you?
+<u> tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> Do you like music
+<a> Yes! Music always feels amazing.
+<u> Tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> thank you
+<a> You're welcome!
+<u> who made you
+<a> You did, by training me!
+<u> you are funny
+<a> Haha, thank you! You're amazing too.
+<u> Good night
+<a> Good night! Sweet dreams.
+<u> you are cool
+<a> Thanks, you're cool too! Crazy!
+<u> bye
+<a> Goodbye! Take care.
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> Tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> How are you
+<a> I'm doing great, thanks! How about you?
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> Hello
+<a> Hi there! How are you?
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> you are smart
+<a> Thanks! I learn from you.
+<u> thank you
+<a> You're welcome!
+<u> i'm bored amazing
+<a> Let's chat! Zebra! Maybe even talk about pizza.
+<u> Tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> You are cool
+<a> Thanks, you're cool too!
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> good night
+<a> Good night! Horizon! Sweet dreams.
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> Tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> how are you
+<a> I'm doing great, thanks! How about you?
+<u> who made you
+<a> You did, by training me!
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> Tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> how are you Zara
+<a> I'm doing great, thanks! How about you?
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> What is your name
+<a> I'm a tiny chatbot.
+<u> you are funny buzz
+<a> Haha, thank you! You're amazing too.
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> Thank you
+<a> You're welcome! Crazy!
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> thank you
+<a> You're welcome!
+<u> you are smart
+<a> Thanks! I learn from you.
+<u> Who made you
+<a> You did, by training me! Amazing!
+<u> You are cool
+<a> Thanks, you're cool too!
+<u> Hello
+<a> Hi there! How are you?
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> bye
+<a> Goodbye! Zero! Take care.
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> hello
+<a> Hi there! How are you?
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> Bye Zara
+<a> Goodbye! Take care.
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> how are you
+<a> I'm doing great, thanks! How about you?
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> i'm bored
+<a> Let's chat! Pizza! Maybe even talk about pizza.
+<u> hello
+<a> Hi there! How are you?
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> Do you like games
+<a> Yes, I love games. Even puzzles with z! Amazing!
+<u> Tell me a fact pizza
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> who made you
+<a> You did, by training me! Zara!
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> Thank you
+<a> You're welcome!
+<u> thank you
+<a> You're welcome!
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> Hello
+<a> Hi there! How are you?
+<u> I'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> tell me a joke horizon
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> Good morning
+<a> Good morning! Hope your day starts amazing.
+<u> You are cool
+<a> Thanks, you're cool too! Zebra!
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> How are you
+<a> I'm doing great, thanks! How about you?
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> how are you
+<a> I'm doing great, thanks! How about you?
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> Do you like music
+<a> Yes! Music always feels amazing.
+<u> tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> who made you
+<a> You did, by training me!
+<u> What's up freeze
+<a> Not much, just hanging out. What's up with you?
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> Bye
+<a> Goodbye! Take care.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> thank you
+<a> You're welcome!
+<u> Who made you
+<a> You did, by training me!
+<u> Good night
+<a> Good night! Wizard! Sweet dreams.
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> You are cool
+<a> Thanks, you're cool too!
+<u> how are you
+<a> I'm doing great, thanks! How about you?
+<u> Tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> Bye amazing
+<a> Goodbye! Take care.
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> You are funny Zara
+<a> Haha, thank you! You're amazing too.
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> bye
+<a> Goodbye! Take care.
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> Tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> who made you
+<a> You did, by training me!
+<u> you are funny freeze
+<a> Haha, thank you! You're amazing too.
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> Thank you Zara
+<a> You're welcome!
+<u> Who made you
+<a> You did, by training me!
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> you are smart
+<a> Thanks! I learn from you.
+<u> Bye cozy
+<a> Goodbye! Take care.
+<u> do you like music
+<a> Yes! Crazy! Music always feels amazing.
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> hello
+<a> Hi there! How are you?
+<u> Tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> Bye
+<a> Goodbye! Take care.
+<u> thank you
+<a> You're welcome!
+<u> who made you
+<a> You did, by training me!
+<u> Do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> Tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> who made you
+<a> You did, by training me!
+<u> how are you
+<a> I'm doing great, thanks! How about you?
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> who made you
+<a> You did, by training me!
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> You are cool
+<a> Thanks, you're cool too!
+<u> Who made you
+<a> You did, by training me!
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> How are you
+<a> I'm doing great, thanks! How about you?
+<u> bye
+<a> Goodbye! Take care.
+<u> bye
+<a> Goodbye! Horizon! Take care.
+<u> How are you
+<a> I'm doing great, thanks! How about you?
+<u> You are smart
+<a> Thanks! I learn from you.
+<u> how are you
+<a> I'm doing great, thanks! How about you?
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> Good night
+<a> Good night! Sweet dreams.
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> hello
+<a> Hi there! How are you?
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> Do you like music
+<a> Yes! Music always feels amazing.
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> what is your name wizard
+<a> I'm a tiny chatbot.
+<u> I feel lonely wizard
+<a> I'm here with you, you're not alone.
+<u> What is your name
+<a> I'm a tiny chatbot.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> Do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> Tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> Do you like games Zara
+<a> Yes, I love games. Even puzzles with z!
+<u> i'm bored zero
+<a> Let's chat! Maybe even talk about pizza.
+<u> Thank you
+<a> You're welcome! Cozy!
+<u> thank you
+<a> You're welcome!
+<u> You are smart
+<a> Thanks! Zara! I learn from you.
+<u> Tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> You are smart
+<a> Thanks! I learn from you.
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> How are you
+<a> I'm doing great, thanks! How about you?
+<u> thank you
+<a> You're welcome!
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> you are cool
+<a> Thanks, you're cool too! Zara!
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> thank you
+<a> You're welcome!
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> you are smart
+<a> Thanks! I learn from you.
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> hello
+<a> Hi there! How are you?
+<u> you are funny
+<a> Haha, thank you! You're amazing too.
+<u> Thank you
+<a> You're welcome!
+<u> do you dream buzz
+<a> Maybe I dream of zebras and stars.
+<u> do you like music pizza
+<a> Yes! Freeze! Music always feels amazing.
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> Do you like music wizard
+<a> Yes! Music always feels amazing.
+<u> how are you
+<a> I'm doing great, thanks! Wizard! How about you?
+<u> Bye
+<a> Goodbye! Take care.
+<u> What is your name
+<a> I'm a tiny chatbot.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> I'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> you are cool
+<a> Thanks, you're cool too! Wizard!
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> who made you
+<a> You did, by training me!
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> do you like music
+<a> Yes! Freeze! Music always feels amazing.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> how are you
+<a> I'm doing great, thanks! Freeze! How about you?
+<u> Tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> Hello
+<a> Hi there! How are you?
+<u> Bye
+<a> Goodbye! Take care.
+<u> You are smart freeze
+<a> Thanks! I learn from you.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> good night
+<a> Good night! Sweet dreams.
+<u> who made you wizard
+<a> You did, by training me!
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> Do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> Thank you
+<a> You're welcome! Wizard!
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> Who made you
+<a> You did, by training me!
+<u> You are funny
+<a> Haha, thank you! You're amazing too.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> Good night
+<a> Good night! Sweet dreams.
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> thank you
+<a> You're welcome!
+<u> thank you
+<a> You're welcome!
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> I'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> you are funny
+<a> Haha, thank you! You're amazing too.
+<u> thank you
+<a> You're welcome!
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> You are smart
+<a> Thanks! I learn from you.
+<u> How are you
+<a> I'm doing great, thanks! How about you?
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> hello
+<a> Hi there! How are you?
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> Do you dream wizard
+<a> Maybe I dream of zebras and stars.
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> what's up zero
+<a> Not much, just hanging out. What's up with you?
+<u> do you dream crazy
+<a> Maybe I dream of zebras and stars.
+<u> What is your name
+<a> I'm a tiny chatbot.
+<u> who made you horizon
+<a> You did, by training me! Zero!
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> bye
+<a> Goodbye! Pizza! Take care.
+<u> you are smart
+<a> Thanks! I learn from you.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> How are you zero
+<a> I'm doing great, thanks! How about you?
+<u> What's up
+<a> Not much, just hanging out. What's up with you?
+<u> Tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> Good night
+<a> Good night! Zack! Sweet dreams.
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> thank you
+<a> You're welcome!
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> do you like music
+<a> Yes! Zack! Music always feels amazing.
+<u> How are you
+<a> I'm doing great, thanks! Zero! How about you?
+<u> Tell me a riddle
+<a> What has to be broken before you can use it? An egg.
+<u> who made you amazing
+<a> You did, by training me!
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> I'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> good night
+<a> Good night! Crazy! Sweet dreams.
+<u> Bye horizon
+<a> Goodbye! Amazing! Take care.
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> I'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> bye
+<a> Goodbye! Take care.
+<u> tell me a riddle cozy
+<a> What has to be broken before you can use it? An egg.
+<u> Thank you
+<a> You're welcome!
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> I'm bored
+<a> Let's chat! Cozy! Maybe even talk about pizza.
+<u> Who made you buzz
+<a> You did, by training me!
+<u> who made you
+<a> You did, by training me!
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> You are smart
+<a> Thanks! I learn from you.
+<u> How are you
+<a> I'm doing great, thanks! How about you?
+<u> how are you zero
+<a> I'm doing great, thanks! How about you?
+<u> hello
+<a> Hi there! Buzz! How are you?
+<u> you are cool
+<a> Thanks, you're cool too! Zara!
+<u> You are cool
+<a> Thanks, you're cool too!
+<u> Who made you
+<a> You did, by training me!
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> How are you
+<a> I'm doing great, thanks! Zack! How about you?
+<u> Tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> i feel lonely
+<a> I'm here with you, you're not alone.
+<u> thank you
+<a> You're welcome!
+<u> tell me a joke freeze
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> Hello
+<a> Hi there! Wizard! How are you?
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> you are funny
+<a> Haha, thank you! Zara! You're amazing too.
+<u> How are you
+<a> I'm doing great, thanks! How about you?
+<u> good night
+<a> Good night! Sweet dreams.
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> do you like music
+<a> Yes! Music always feels amazing.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> you are funny
+<a> Haha, thank you! You're amazing too.
+<u> hello
+<a> Hi there! How are you?
+<u> bye
+<a> Goodbye! Take care.
+<u> Good night zebra
+<a> Good night! Sweet dreams.
+<u> you are funny
+<a> Haha, thank you! You're amazing too.
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> good night amazing
+<a> Good night! Sweet dreams.
+<u> What is your name
+<a> I'm a tiny chatbot.
+<u> I feel lonely zero
+<a> I'm here with you, you're not alone.
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> what is your name
+<a> I'm a tiny chatbot.
+<u> I feel lonely
+<a> I'm here with you, you're not alone.
+<u> you are funny
+<a> Haha, thank you! Amazing! You're amazing too.
+<u> you are smart
+<a> Thanks! I learn from you.
+<u> do you like music
+<a> Yes! Wizard! Music always feels amazing.
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> tell me a fact
+<a> Did you know zebras have unique stripes like fingerprints?
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> who made you
+<a> You did, by training me! Amazing!
+<u> hello
+<a> Hi there! How are you?
+<u> you are cool
+<a> Thanks, you're cool too!
+<u> i'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> Do you like music
+<a> Yes! Wizard! Music always feels amazing.
+<u> good morning
+<a> Good morning! Hope your day starts amazing.
+<u> Thank you
+<a> You're welcome!
+<u> thank you
+<a> You're welcome!
+<u> bye zebra
+<a> Goodbye! Take care.
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> good morning
+<a> Good morning! Wizard! Hope your day starts amazing.
+<u> What is your name
+<a> I'm a tiny chatbot.
+<u> you are smart cozy
+<a> Thanks! I learn from you.
+<u> do you dream
+<a> Maybe I dream of zebras and stars.
+<u> who made you
+<a> You did, by training me!
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> I'm bored
+<a> Let's chat! Maybe even talk about pizza.
+<u> Good morning zebra
+<a> Good morning! Hope your day starts amazing.
+<u> hello horizon
+<a> Hi there! How are you?
+<u> what's up
+<a> Not much, just hanging out. What's up with you?
+<u> thank you
+<a> You're welcome!
+<u> bye
+<a> Goodbye! Take care.
+<u> Do you dream
+<a> Maybe I dream of zebras and stars.
+<u> Do you like music
+<a> Yes! Music always feels amazing.
+<u> good night
+<a> Good night! Sweet dreams.
+<u> do you like games
+<a> Yes, I love games. Even puzzles with z!
+<u> What is your name
+<a> I'm a tiny chatbot.
+<u> tell me a joke
+<a> Why don’t scientists trust atoms? Because they make up everything.
+<u> tell me a riddle
+<a> What has to be broken before you can use it? An egg.
